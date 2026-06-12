@@ -1,0 +1,7 @@
+node_modules/
+src-tauri/target/
+src-tauri/gen/
+scripts/shot-*.png
+
+# local build-spec notes, not part of the published project
+implementation.md

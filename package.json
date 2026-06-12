@@ -1,0 +1,15 @@
+{
+  "name": "reclaude",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rename Claude Code project folders without losing chat history. Unofficial tool, not affiliated with Anthropic.",
+  "scripts": {
+    "dev": "tauri dev",
+    "build": "tauri build",
+    "install-app": "tauri build && node scripts/install.mjs",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.0.0"
+  }
+}
