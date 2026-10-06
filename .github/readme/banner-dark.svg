@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 162" width="850" height="162" role="img" aria-label="RECLAUDE">
+<defs><linearGradient id="ramp" gradientUnits="userSpaceOnUse" x1="0" y1="24" x2="0" y2="138"><stop offset="0" stop-color="#f0a283"/><stop offset="0.55" stop-color="#d97757"/><stop offset="1" stop-color="#b5583a"/></linearGradient>
+<filter id="glow" x="-4%" y="-30%" width="108%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feComponentTransfer in="b" result="g"><feFuncA type="linear" slope="0.55"/></feComponentTransfer><feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>text { font-family: ui-monospace,'SFMono-Regular','SF Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 18px; fill: url(#ramp); white-space: pre; }</style>
+<g filter="url(#glow)">
+<text x="36" y="42.0" textLength="778" lengthAdjust="spacing" xml:space="preserve">██████╗  ███████╗  ██████╗ ██╗       █████╗  ██╗   ██╗ ██████╗  ███████╗</text>
+<text x="36" y="61.1" textLength="778" lengthAdjust="spacing" xml:space="preserve">██╔══██╗ ██╔════╝ ██╔════╝ ██║      ██╔══██╗ ██║   ██║ ██╔══██╗ ██╔════╝</text>
+<text x="36" y="80.2" textLength="778" lengthAdjust="spacing" xml:space="preserve">██████╔╝ █████╗   ██║      ██║      ███████║ ██║   ██║ ██║  ██║ █████╗  </text>
+<text x="36" y="99.4" textLength="778" lengthAdjust="spacing" xml:space="preserve">██╔══██╗ ██╔══╝   ██║      ██║      ██╔══██║ ██║   ██║ ██║  ██║ ██╔══╝  </text>
+<text x="36" y="118.5" textLength="778" lengthAdjust="spacing" xml:space="preserve">██║  ██║ ███████╗ ╚██████╗ ███████╗ ██║  ██║ ╚██████╔╝ ██████╔╝ ███████╗</text>
+<text x="36" y="137.6" textLength="778" lengthAdjust="spacing" xml:space="preserve">╚═╝  ╚═╝ ╚══════╝  ╚═════╝ ╚══════╝ ╚═╝  ╚═╝  ╚═════╝  ╚═════╝  ╚══════╝</text>
+</g>
+</svg>
